@@ -12,7 +12,7 @@
 #
 #	Author: Florian Schermer
 #	Email: florian.schermer@datazon.de
-#	Github: https://github.com/datazon/zabbix-lsi-raid
+#	Github:https://github.com/datazon/zfsdu
 
 set -euo pipefail
 LC_ALL=C
